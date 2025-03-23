@@ -1,6 +1,6 @@
-// 8 kyu - Return Negative
+// 8 kyu - Multiply
 
-// In this simple assignment you are given a number and have to make it negative. But maybe the number is already negative?
+// This code does not execute properly. Try to figure out why.
 
 export function multiply(a: number, b: number): number {
     return a * b;

@@ -1,6 +1,6 @@
-// 8 kyu - Return Negative
+// 8 kyu - Even or Odd
 
-// In this simple assignment you are given a number and have to make it negative. But maybe the number is already negative?
+// Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
 package kata
 
