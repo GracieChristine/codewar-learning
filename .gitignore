@@ -1,2 +1,5 @@
 # ignore the template folder
 template
+
+# ignore .DS
+.DS_Store
